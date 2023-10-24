@@ -5,10 +5,11 @@ Welcome to an epic adventure of godly proportions! Dive into the world of Kratos
 
 ## Table Contents
 
-• - Requirements [What is penetration testing?](#Requirements)
-  -
-• -  Key Features: [What is penetration testing?](#Key-Features)
-• -  Screenshots: [What is penetration testing?](#Screenshots)
+• - Requirements [Can i runt i?](#Requirements)
+    -
+• -  Key Features: [New?](#Key-Features) 
+    -
+• -  Screenshots: [Ideas and Support?](#Screenshots)
   
    
 ##  1. Requirements:
