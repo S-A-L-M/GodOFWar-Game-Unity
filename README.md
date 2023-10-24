@@ -40,6 +40,6 @@ Version Compatibility: This project is built using Unity version 20XX.X.X. Ensur
 
 See the game in action with these captivating screenshots:
 
-![Captura de pantalla del juego](Capt 6-God-of-war-Unity.png)
+![Captura de pantalla del juego](Capt6-God-of-war-Unity.png)
 
 
