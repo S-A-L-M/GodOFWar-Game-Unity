@@ -45,6 +45,6 @@ See the game in action with these captivating screenshots:
 ![Captura de pantalla del juego](Capt4-God-of-war-Unity.png)
 ![Captura de pantalla del juego](Capt3-God-of-war-Unity.png)
 ![Captura de pantalla del juego](Capt2-God-of-war-Unity.png)
-![Captura de pantalla del juego](Capt-God-of-war-Unity.png)
+![Captura de pantalla del juego](Capt1-God-of-war-Unity.png)
 
 
